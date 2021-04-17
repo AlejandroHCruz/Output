@@ -1,9 +1,7 @@
 //
 //  ContentView.swift
-//  Ambar
-//
-//  Created by Anagh Sharma on 12/11/19.
-//  Copyright © 2019 Anagh Sharma. All rights reserved.
+//  Output
+//  Copyright © 2021 Alejandro H. Cruz. Some rights reserved.
 //
 
 import SwiftUI
@@ -12,7 +10,7 @@ import AppKit
 struct ContentView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
-            Text("Make\nEpic\nThings")
+            Text("Output\nIs\nComing...\n\nBitch!")
                 .font(Font.system(size: 34.0))
                 .fontWeight(.semibold)
                 .multilineTextAlignment(.leading)

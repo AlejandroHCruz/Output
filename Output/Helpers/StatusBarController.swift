@@ -1,9 +1,9 @@
 //
 //  StatusBarController.swift
-//  Ambar
+//  Output
 //
-//  Created by Anagh Sharma on 12/11/19.
-//  Copyright © 2019 Anagh Sharma. All rights reserved.
+//  Created by Alejandro H. Cruz on 12/11/19.
+//  Copyright © 2021 Alejandro H. Cruz. Some rights reserved.
 //
 
 import AppKit
